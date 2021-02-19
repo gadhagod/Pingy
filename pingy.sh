@@ -1,5 +1,10 @@
 logfile=$1
 
+
+if [ -n "$logfile" ]; then
+    echo "----------------------\nRestarting pingy at `date`\n" >> "$logfile"
+fi
+
 while :; do
     ping -c 1 google.com
     if [[ $? != 0 ]]; then
