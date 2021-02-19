@@ -9,3 +9,5 @@ You can log times when your internet went down and came back up by passing an ar
 
     Wifi down at Wed Feb 17 13:34:16 PST 2021
     Wifi up at Wed Feb 17 13:34:27 PST 2021
+
+Demo video: [https://www.youtube.com/watch?v=iRKuFhZMeiE](https://www.youtube.com/watch?v=iRKuFhZMeiE)
